@@ -1,28 +1,30 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: grafixoner # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://linkshee.sh
+  - name: API Check
+    url: https://api.icecreamtruck.io/bombpop/cards/0x5bd238337225509916e85c18b17efdcab0421848
+  - name: ETH API Check
+    url: https://api.icecreamtruck.io/nfts/ETH/0x12781d45dc31e12a68ed26811503673075d15657/0x6cb26df0c825fece867a84658f87b0ecbcea72f6
+  - name: SOL API Check
+    url: https://api.icecreamtruck.io/nfts/SOL/GQpoDD6qzKJf9MGjS7QQe3j3x5iepjxDyCcTw42K2W2g/B8yeYdC9SeXxMTrUagTFYDjm6uRyRWQYgoHsXzHGtKMY
+  - name: IPFS Check
+    url: https://ipfs.icecreamtruck.io/ipfs/QmNT8hLBZQZRnma1LxwpzQWmbTzEnpnwAqZzEyPxBVQWH7
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.linkshee.sh
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://linkshee.sh/images/logo_sheesh.png
+  name: Link Sheesh
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Link Sheesh Status Page and Uptime monitor.
   navbar:
-    - title: Status
+    - title: Link Sheesh Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
