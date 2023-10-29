@@ -40,18 +40,20 @@
     "url": "https://api.icecreamtruck.io/nfts/ETH/0x12781d45dc31e12a68ed26811503673075d15657/0x6cb26df0c825fece867a84658f87b0ecbcea72f6",
     "icon": "https://icons.duckduckgo.com/ip3/api.icecreamtruck.io.ico",
     "slug": "eth-api-check",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 395,
-    "timeWeek": 344,
-    "timeMonth": 344,
-    "timeYear": 344,
-    "dailyMinutesDown": {}
+    "time": 317,
+    "timeDay": 246,
+    "timeWeek": 317,
+    "timeMonth": 317,
+    "timeYear": 317,
+    "dailyMinutesDown": {
+      "2023-10-29": 0
+    }
   },
   {
     "name": "SOL API Check",
