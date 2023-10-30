@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 151,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
+    "time": 123,
+    "timeDay": 186,
+    "timeWeek": 123,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.icecreamtruck.io.ico",
     "slug": "api-check",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 314,
-    "timeDay": 585,
-    "timeWeek": 314,
-    "timeMonth": 314,
-    "timeYear": 314,
-    "dailyMinutesDown": {
-      "2023-10-29": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 345,
+    "timeDay": 715,
+    "timeWeek": 345,
+    "timeMonth": 345,
+    "timeYear": 345,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ETH API Check",
@@ -43,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.icecreamtruck.io.ico",
     "slug": "eth-api-check",
     "status": "down",
-    "uptime": "96.13%",
-    "uptimeDay": "85.40%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "96.13%",
-    "uptimeYear": "96.13%",
-    "time": 317,
-    "timeDay": 246,
-    "timeWeek": 317,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "uptime": "83.48%",
+    "uptimeDay": "28.28%",
+    "uptimeWeek": "83.48%",
+    "uptimeMonth": "83.48%",
+    "uptimeYear": "83.48%",
+    "time": 291,
+    "timeDay": 79,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-10-29": 210
+      "2023-10-30": 17,
+      "2023-10-29": 1016
     }
   },
   {
@@ -63,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.icecreamtruck.io.ico",
     "slug": "sol-api-check",
     "status": "down",
-    "uptime": "96.32%",
-    "uptimeDay": "86.14%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "96.32%",
-    "uptimeYear": "96.32%",
-    "time": 2878,
-    "timeDay": 1808,
-    "timeWeek": 2878,
-    "timeMonth": 2878,
-    "timeYear": 2878,
+    "uptime": "83.65%",
+    "uptimeDay": "29.01%",
+    "uptimeWeek": "83.65%",
+    "uptimeMonth": "83.65%",
+    "uptimeYear": "83.65%",
+    "time": 2599,
+    "timeDay": 77,
+    "timeWeek": 2599,
+    "timeMonth": 2599,
+    "timeYear": 2599,
     "dailyMinutesDown": {
-      "2023-10-29": 200
+      "2023-10-30": 17,
+      "2023-10-29": 1005
     }
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 821,
-    "timeWeek": 859,
-    "timeMonth": 859,
-    "timeYear": 859,
+    "time": 875,
+    "timeDay": 1003,
+    "timeWeek": 875,
+    "timeMonth": 875,
+    "timeYear": 875,
     "dailyMinutesDown": {}
   }
 ]
