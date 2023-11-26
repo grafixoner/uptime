@@ -4,19 +4,19 @@
     "url": "https://linkshee.sh",
     "icon": "https://icons.duckduckgo.com/ip3/linkshee.sh.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 233,
-    "timeWeek": 158,
-    "timeMonth": 163,
-    "timeYear": 156,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 155,
+    "timeDay": 180,
+    "timeWeek": 154,
+    "timeMonth": 162,
+    "timeYear": 155,
     "dailyMinutesDown": {
-      "2023-11-26": 0
+      "2023-11-26": 7
     }
   },
   {
