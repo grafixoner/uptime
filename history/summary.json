@@ -22,36 +22,39 @@
     "url": "https://api.icecreamtruck.io/bombpop/cards/0x5bd238337225509916e85c18b17efdcab0421848",
     "icon": "https://icons.duckduckgo.com/ip3/api.icecreamtruck.io.ico",
     "slug": "api-check",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 496,
     "timeDay": 332,
     "timeWeek": 274,
     "timeMonth": 553,
     "timeYear": 496,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-29": 5
+    }
   },
   {
     "name": "ETH API Check",
     "url": "https://api.icecreamtruck.io/nfts/ETH/0x12781d45dc31e12a68ed26811503673075d15657/0x6cb26df0c825fece867a84658f87b0ecbcea72f6",
     "icon": "https://icons.duckduckgo.com/ip3/api.icecreamtruck.io.ico",
     "slug": "eth-api-check",
-    "status": "up",
-    "uptime": "97.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "97.40%",
+    "status": "down",
+    "uptime": "97.42%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "97.42%",
     "time": 359,
     "timeDay": 518,
     "timeWeek": 349,
-    "timeMonth": 362,
+    "timeMonth": 370,
     "timeYear": 359,
     "dailyMinutesDown": {
+      "2023-11-29": 3,
       "2023-10-30": 271,
       "2023-10-29": 1016
     }
@@ -61,18 +64,19 @@
     "url": "https://api.icecreamtruck.io/nfts/SOL/GQpoDD6qzKJf9MGjS7QQe3j3x5iepjxDyCcTw42K2W2g/B8yeYdC9SeXxMTrUagTFYDjm6uRyRWQYgoHsXzHGtKMY",
     "icon": "https://icons.duckduckgo.com/ip3/api.icecreamtruck.io.ico",
     "slug": "sol-api-check",
-    "status": "up",
-    "uptime": "97.37%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.37%",
+    "status": "down",
+    "uptime": "97.40%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "97.40%",
     "time": 3456,
     "timeDay": 5303,
     "timeWeek": 3961,
-    "timeMonth": 3506,
+    "timeMonth": 3604,
     "timeYear": 3456,
     "dailyMinutesDown": {
+      "2023-11-29": 2,
       "2023-11-28": 24,
       "2023-10-30": 271,
       "2023-10-29": 1005
@@ -83,9 +87,9 @@
     "url": "https://ipfs.icecreamtruck.io/ipfs/QmNT8hLBZQZRnma1LxwpzQWmbTzEnpnwAqZzEyPxBVQWH7",
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.icecreamtruck.io.ico",
     "slug": "ipfs-check",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,6 +98,8 @@
     "timeWeek": 2540,
     "timeMonth": 1608,
     "timeYear": 1454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-29": 0
+    }
   }
 ]
