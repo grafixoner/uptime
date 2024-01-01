@@ -22,9 +22,9 @@
     "url": "https://api.icecreamtruck.io/bombpop/cards/0x5bd238337225509916e85c18b17efdcab0421848",
     "icon": "https://icons.duckduckgo.com/ip3/api.icecreamtruck.io.ico",
     "slug": "api-check",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 246,
     "timeMonth": 259,
     "timeYear": 391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-01": 0
+    }
   },
   {
     "name": "ETH API Check",
