@@ -1,7 +1,7 @@
 url: https://api.icecreamtruck.io/nfts/SOL/GQpoDD6qzKJf9MGjS7QQe3j3x5iepjxDyCcTw42K2W2g/B8yeYdC9SeXxMTrUagTFYDjm6uRyRWQYgoHsXzHGtKMY
-status: up
-code: 200
-responseTime: 3260
-lastUpdated: 2024-02-20T23:02:00.375Z
+status: down
+code: 500
+responseTime: 175
+lastUpdated: 2024-02-21T04:23:46.762Z
 startTime: 2023-10-25T16:04:36.361Z
 generator: Upptime <https://github.com/upptime/upptime>
