@@ -1,7 +1,7 @@
 url: https://api.icecreamtruck.io/bombpop/cards/0x5bd238337225509916e85c18b17efdcab0421848
-status: up
-code: 200
-responseTime: 337
-lastUpdated: 2024-05-24T23:01:49.780Z
+status: down
+code: 502
+responseTime: 255
+lastUpdated: 2024-05-25T03:14:59.659Z
 startTime: 2023-10-25T16:04:34.441Z
 generator: Upptime <https://github.com/upptime/upptime>
