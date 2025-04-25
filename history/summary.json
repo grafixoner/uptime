@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 255,
-    "timeDay": 239,
-    "timeWeek": 232,
-    "timeMonth": 247,
+    "timeDay": 200,
+    "timeWeek": 226,
+    "timeMonth": 249,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2025-03-13": 17,
@@ -30,12 +30,12 @@
     "uptimeDay": "23.97%",
     "uptimeWeek": "89.14%",
     "uptimeMonth": "92.24%",
-    "uptimeYear": "82.58%",
+    "uptimeYear": "82.61%",
     "time": 614,
-    "timeDay": 13486,
-    "timeWeek": 3635,
-    "timeMonth": 1247,
-    "timeYear": 733,
+    "timeDay": 13312,
+    "timeWeek": 3631,
+    "timeMonth": 1254,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2025-04-24": 1095,
       "2025-04-17": 1093,
@@ -102,8 +102,7 @@
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
-      "2024-04-26": 1440,
-      "2024-04-25": 1440
+      "2024-04-26": 1440
     }
   },
   {
@@ -118,12 +117,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.04%",
     "time": 507,
-    "timeDay": 2480,
-    "timeWeek": 652,
+    "timeDay": 356,
+    "timeWeek": 650,
     "timeMonth": 458,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-04-24": 1313,
+      "2025-04-25": 26,
+      "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -486,8 +486,7 @@
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
-      "2024-04-26": 1440,
-      "2024-04-25": 1440
+      "2024-04-26": 1440
     }
   },
   {
@@ -496,18 +495,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.icecreamtruck.io.ico",
     "slug": "sol-api-check",
     "status": "down",
-    "uptime": "60.79%",
+    "uptime": "60.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.96%",
+    "uptimeMonth": "76.61%",
     "uptimeYear": "47.68%",
-    "time": 2797,
-    "timeDay": 3800,
-    "timeWeek": 2555,
-    "timeMonth": 2181,
+    "time": 2795,
+    "timeDay": 2239,
+    "timeWeek": 2328,
+    "timeMonth": 2055,
     "timeYear": 2440,
     "dailyMinutesDown": {
-      "2025-04-24": 1313,
+      "2025-04-25": 26,
+      "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -697,8 +697,7 @@
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
-      "2024-04-26": 1440,
-      "2024-04-25": 1440
+      "2024-04-26": 1440
     }
   },
   {
@@ -713,9 +712,9 @@
     "uptimeMonth": "94.74%",
     "uptimeYear": "99.07%",
     "time": 969,
-    "timeDay": 1102,
-    "timeWeek": 1013,
-    "timeMonth": 966,
+    "timeDay": 1027,
+    "timeWeek": 1021,
+    "timeMonth": 970,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2025-04-17": 1093,
