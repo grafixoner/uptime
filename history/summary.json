@@ -4,11 +4,11 @@
     "url": "https://linkshee.sh",
     "icon": "https://icons.duckduckgo.com/ip3/linkshee.sh.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "90.75%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "90.64%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.92%",
     "time": 257,
     "timeDay": 416,
@@ -16,7 +16,7 @@
     "timeMonth": 583,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-09-22": 134,
+      "2025-09-22": 136,
       "2025-08-25": 280,
       "2025-03-13": 17
     }
@@ -60,7 +60,7 @@
     "timeMonth": 385,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2025-09-22": 1108,
+      "2025-09-22": 1122,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 2238,
     "timeYear": 2280,
     "dailyMinutesDown": {
-      "2025-09-22": 1108,
+      "2025-09-22": 1122,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -611,7 +611,7 @@
     "timeMonth": 0,
     "timeYear": 1266,
     "dailyMinutesDown": {
-      "2025-09-22": 1108,
+      "2025-09-22": 1122,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
