@@ -11,7 +11,7 @@ sites:
   - name: SOL RPC Check
     url: https://api.lollipop.gg/nft/SOL/6v2wB9GkWy13WKsB5SYCoUfn8FmahqA2yqT7MCMqVdyF
   - name: IPFS Check
-    url: https://ipfs.lollipop.gg/ipfs/QmNT8hLBZQZRnma1LxwpzQWmbTzEnpnwAqZzEyPxBVQWH7
+    url: https://ipfs.lollipop.gg/ipfs/QmToj2nYmFzNXyzA8RV4Uo7Z2WL17FLSCXtUbaqx9K46vA
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
