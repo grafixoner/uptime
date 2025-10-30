@@ -1,7 +1,7 @@
 url: https://api.lollipop.gg/check/ibuildcoolshit
-status: down
-code: 502
-responseTime: 180
-lastUpdated: 2025-10-30T22:09:05.647Z
+status: up
+code: 200
+responseTime: 209
+lastUpdated: 2025-10-30T22:22:32.247Z
 startTime: 2023-10-25T16:04:34.441Z
 generator: Upptime <https://github.com/upptime/upptime>
