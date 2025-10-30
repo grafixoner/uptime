@@ -5,11 +5,11 @@ sites:
   - name: Website
     url: https://lollipop.gg
   - name: API Check
-    url: https://api.lollipop.gg/bombpop/cards/0x5bd238337225509916e85c18b17efdcab0421848
-  - name: ETH API Check
-    url: https://api.lollipop.gg/nfts/ETH/0x12781d45dc31e12a68ed26811503673075d15657/0x6cb26df0c825fece867a84658f87b0ecbcea72f6
-  - name: SOL API Check
-    url: https://api.lollipop.gg/nfts/SOL/GQpoDD6qzKJf9MGjS7QQe3j3x5iepjxDyCcTw42K2W2g/B8yeYdC9SeXxMTrUagTFYDjm6uRyRWQYgoHsXzHGtKMY
+    url: https://api.lollipop.gg/check/ibuildcoolshit
+  - name: ETH RPC Check
+    url: https://api.lollipop.gg/nft/ETH/0x6cb26df0c825fece867a84658f87b0ecbcea72f6/5242
+  - name: SOL RPC Check
+    url: https://api.lollipop.gg/nft/SOL/6v2wB9GkWy13WKsB5SYCoUfn8FmahqA2yqT7MCMqVdyF
   - name: IPFS Check
     url: https://ipfs.lollipop.gg/ipfs/QmNT8hLBZQZRnma1LxwpzQWmbTzEnpnwAqZzEyPxBVQWH7
 status-website:
