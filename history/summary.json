@@ -40,19 +40,19 @@
     "url": "https://api.lollipop.gg/check/ibuildcoolshit",
     "icon": "https://icons.duckduckgo.com/ip3/api.lollipop.gg.ico",
     "slug": "api-check",
-    "status": "up",
+    "status": "down",
     "uptime": "87.10%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.40%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "38.39%",
     "uptimeYear": "94.22%",
     "time": 849,
-    "timeDay": 238,
-    "timeWeek": 203,
-    "timeMonth": 510,
-    "timeYear": 950,
+    "timeDay": 218,
+    "timeWeek": 201,
+    "timeMonth": 500,
+    "timeYear": 948,
     "dailyMinutesDown": {
-      "2025-10-30": 1327,
+      "2025-10-30": 1329,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.lollipop.gg.ico",
     "slug": "eth-rpc-check",
     "status": "down",
-    "uptime": "1.15%",
-    "uptimeDay": "1.15%",
-    "uptimeWeek": "1.15%",
-    "uptimeMonth": "1.15%",
-    "uptimeYear": "1.15%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 43,
     "timeDay": 43,
     "timeWeek": 43,
     "timeMonth": 43,
     "timeYear": 43,
     "dailyMinutesDown": {
-      "2025-10-30": 0
+      "2025-10-30": 4
     }
   },
   {
@@ -114,7 +114,7 @@
     "timeMonth": 42,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2025-10-30": 0
+      "2025-10-30": 4
     }
   },
   {
@@ -134,7 +134,7 @@
     "timeMonth": 6198,
     "timeYear": 1529,
     "dailyMinutesDown": {
-      "2025-10-30": 1327,
+      "2025-10-30": 1331,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
