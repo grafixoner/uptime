@@ -1,7 +1,7 @@
 url: https://api.lollipop.gg/nft/SOL/6v2wB9GkWy13WKsB5SYCoUfn8FmahqA2yqT7MCMqVdyF
-status: down
-code: 500
-responseTime: 10
-lastUpdated: 2025-11-18T11:57:39.476Z
+status: up
+code: 200
+responseTime: 242
+lastUpdated: 2025-11-18T12:14:41.957Z
 startTime: 2025-10-30T22:41:10.540Z
 generator: Upptime <https://github.com/upptime/upptime>
